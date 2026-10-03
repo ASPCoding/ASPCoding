@@ -1,4 +1,4 @@
-## Hiya! I'm Austin, a first year UCI computer science major and aspiring software engineer!
+## Hiya! I'm Austin, a third year UCI computer science major and aspiring software engineer!
 
 The projects here will mainly be backend code, however I will try to dabble in some frontend as well. I am open to trying and learning new things to expand my horizons and grow my skill set.
 
